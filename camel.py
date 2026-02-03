@@ -1,1 +1,3 @@
-# Enter your code here
+firstName = str(input("Whats your first name? "))
+first_Name = firstName.title()
+print(first_Name)
